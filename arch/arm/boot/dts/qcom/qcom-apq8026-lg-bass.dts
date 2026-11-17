@@ -14,3 +14,8 @@
 	qcom,board-id = <133 0x0a>;
 	qcom,msm-id = <199 0x20000>;
 };
+
+&pm8226_l28 {
+	regulator-min-microvolt = <3300000>;
+	regulator-max-microvolt = <3300000>;
+};
