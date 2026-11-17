@@ -14,5 +14,3 @@
 	qcom,board-id = <133 0x0a>;
 	qcom,msm-id = <199 0x20000>;
 };
-
-
