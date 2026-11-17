@@ -3,6 +3,7 @@
  * Copyright (c) 2021, Luca Weiss <luca@z3ntu.xyz>
  */
 
+#include "qcom-msm8226.dtsi"
 #include "pm8226.dtsi"
 #include <dt-bindings/clock/qcom,mmcc-msm8974.h>
 
